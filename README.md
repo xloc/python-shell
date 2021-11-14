@@ -6,4 +6,6 @@
 * autojump build-in
 * color theme build-in (using 256 color)
 * easily customized prompt line
-* command snippet completion
+* snippet completion
+* alias
+* vi-mode
