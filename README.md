@@ -9,3 +9,5 @@
 * snippet completion
 * alias
 * vi-mode
+* easily customizable prompt
+* pipe status
